@@ -62,10 +62,6 @@ To create an interactive and insightful Power BI dashboard that analyzes and vis
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 🧠 Future Improvements
 
 - Add predictive analytics using Python/R in Power BI
