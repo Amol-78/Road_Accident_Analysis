@@ -64,3 +64,24 @@ To create an interactive and insightful Power BI dashboard that analyzes and vis
 
 ## 📁 Project Structure
 
+---
+
+## 🧠 Future Improvements
+
+- Add predictive analytics using Python/R in Power BI
+- Drill-down analysis by age group or gender
+- Integrate real-time data (if available)
+- Embed the dashboard online using Power BI Service
+
+---
+
+## 📬 Contact
+
+**Created by**: Amol  
+**Skills**: Power BI | Data Analysis | Dashboard Design | Python (basic)  
+**LinkedIn/GitHub**: [Add your profile links here]
+
+---
+
+⭐ If you like this project, give it a star and feel free to fork or contribute!
+
